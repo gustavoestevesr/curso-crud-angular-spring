@@ -1,0 +1,18 @@
+.loading-spinner {
+  background: rgba(0, 0, 0, 0.10);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15vh;
+}
+
+mat-card {
+  max-width: 90%;
+  margin: 2em auto;
+  text-align: center;
+}
+
+mat-toolbar {
+  display: flex;
+  justify-content: space-between;
+}
